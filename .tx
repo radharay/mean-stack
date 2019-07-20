@@ -1,0 +1,10 @@
+ Mean-Stack : MongoDB, Express, AngularJS e Node.js
+
+ Projeto criado a partir do Livro: Mean Full Stack com javacrispt, Casa do Código.
+
+ ###Requisito:
+ - Instalação do Node.js (https://nodejs.org/);
+ 
+
+ #Express:
+ Crie um arquivo chamado node-server.js dentro da sua pasta.
