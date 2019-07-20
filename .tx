@@ -26,3 +26,4 @@ código anterior: config/express.js
 Na nossa pasta node_modules está a pasta ejs e está  em dependências no package.json
 Importante: No Express, template engines são configurados em variáveis de ambiente. 
 Elas são adicionadas ou alteradas através da função app.set:
+- Configurando a routes home.js
