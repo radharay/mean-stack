@@ -22,3 +22,7 @@ Capitulo 02
 - Configurar a porta da aplicação que estava faltando no
 código anterior: config/express.js
 - Dentro da pasta pulic, crie index.html
+- Instalando templates engines EJS npm install ejs@0.8 --save 
+Na nossa pasta node_modules está a pasta ejs e está  em dependências no package.json
+Importante: No Express, template engines são configurados em variáveis de ambiente. 
+Elas são adicionadas ou alteradas através da função app.set:
