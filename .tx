@@ -14,3 +14,10 @@ versão.
 Se você observar, temos uma nova pasta: node_modules.
 É nela que ficam todos os módulos de que a aplicação precisa para funcionar. 
 Inclusive o express que acabamos de instalar.
+
+Capitulo 02
+2.4 Criando o módulo de configuração do express:
+- Crie o arquivo config/express.js
+- Crie o arquivo server.js na raiz do projeto.
+- Configurar a porta da aplicação que estava faltando no
+código anterior: config/express.js
