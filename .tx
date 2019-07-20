@@ -4,7 +4,13 @@
 
  ###Requisito:
  - Instalação do Node.js (https://nodejs.org/);
- 
-
- #Express:
- Crie um arquivo chamado node-server.js dentro da sua pasta.
+ - Crie um arquivo chamado node-server.js dentro da sua pasta.
+ - Agora no terminal vmaos criar package.json, com o comando npm init
+ - Instalação Express:
+ npm install express@4.8 --save
+O parâmetro --save grava em package.json a dependência e sua
+versão.
+- Pasta node_modules
+Se você observar, temos uma nova pasta: node_modules.
+É nela que ficam todos os módulos de que a aplicação precisa para funcionar. 
+Inclusive o express que acabamos de instalar.
