@@ -21,3 +21,4 @@ Capitulo 02
 - Crie o arquivo server.js na raiz do projeto.
 - Configurar a porta da aplicação que estava faltando no
 código anterior: config/express.js
+- Dentro da pasta pulic, crie index.html
